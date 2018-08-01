@@ -1,0 +1,4 @@
+﻿{
+  "apns_cert_file": "Certificates/SmileHT.p12",
+  "apns_cert_pwd": "pass@123"
+}
